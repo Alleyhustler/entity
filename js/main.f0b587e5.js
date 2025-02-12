@@ -9095,7 +9095,7 @@
                     l((e => [...e, ""]));
                     break;
                 case "twitter":
-                    window.open("https://x.com/HellKatai", "_blank"),
+                    window.open("https://x.com/entity_exe__", "_blank"),
                     l((e => [...e, ""]));
                     break;
                 case "about":
@@ -9791,7 +9791,7 @@
                     className: "social-icons",
                     children: [(0,
                     i.jsx)("a", {
-                        href: "https://x.com/hellkatai",
+                        href: "https://x.com/entity_exe__",
                         target: "_blank",
                         rel: "noopener noreferrer",
                         children: (0,
