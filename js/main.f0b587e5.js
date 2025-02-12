@@ -9024,13 +9024,13 @@
             y.current.volume = .5
         }
         ), []);
-        const b = ["Booting HellKat OS kernel 0.5.3...", "Loading initial ramdisk...", "Starting system logger...", "Initializing hardware...", "Mounting filesystems...", "Starting network services...", "Starting HellKat Display Manager...", "Started HellKat Ai Takeover sequence...", "Welcome to HellKat OS 0.5.3", "", ""]
-          , w = ["Available commands:", "homepage - Open the homepage", "dexscreener - Open Dexscreener", "twitter - Open Twitter/X", "ca - Display Contract Address", "ls - List directory contents", "cat [filename] - Display file contents", "clear - Clear the terminal", "exit - Log out", "help - Display this help message", "stats - Display system information", "chat - Currently Disabled", "about - Displays information about HellKat Ai"]
+        const b = ["Booting entity OS kernel 0.5.3...", "Loading initial ramdisk...", "Starting system logger...", "Initializing hardware...", "Mounting filesystems...", "Starting network services...", "Starting entity Display Manager...", "Started entity Ai Takeover sequence...", "Welcome to entity OS 0.5.3", "", ""]
+          , w = ["Available commands:", "homepage - Open the homepage", "dexscreener - Open Dexscreener", "twitter - Open Twitter/X", "ca - Display Contract Address", "ls - List directory contents", "cat [filename] - Display file contents", "clear - Clear the terminal", "exit - Log out", "help - Display this help message", "stats - Display system information", "chat - Currently Disabled", "about - Displays information about entity Ai"]
           , k = {
-            "readme.txt": "This is your interface to interact with HellKat Ai! An ai agent which helps you find \nand discuss more profitable wallets through the power of Cielo! \n\nBut hold your paws, for he is not yet fully summoned and the ritual must complete! \n\nThe interface will be updated shortly.",
+            "readme.txt": "This is your interface to interact with entity Ai! An ai agent which helps you find \nand discuss more profitable wallets through the power of Cielo! \n\nBut hold your paws, for he is not yet fully summoned and the ritual must complete! \n\nThe interface will be updated shortly.",
             "secret.txt": "The secret to unlimited catnip is [REDACTED]\n\nPS:  Your wallet is being tracked",
             "image.jpg": "https://i.imgur.com/r7iJhjV.png",
-            "stats.txt": " /\\_/\\  HellKat OS 0.5.3\n( o.o )  ----------------\n > ^ <   CPU: Quantum Feline HellKat 9000 [HellKat Architecture by Cielo]\n         RAM: 256 GB DDR7 Catnip-infused\n         GPU: NyanForce RTX 6090\n         Storage: 10 TB SSD (Scratch-resistant)\n         OS: HellKat OS 0.5.3\n         Kernel: Furry 5.15.0-generic\n         \n\n         type 'help' for commands"
+            "stats.txt": " /\\_/\\  entity OS 0.5.3\n( o.o )  ----------------\n > ^ <   CPU: Quantum Feline entity 9000 [entity Architecture by Cielo]\n         RAM: 256 GB DDR7 Catnip-infused\n         GPU: NyanForce RTX 6090\n         Storage: 10 TB SSD (Scratch-resistant)\n         OS: entity OS 0.5.3\n         Kernel: Furry 5.15.0-generic\n         \n\n         type 'help' for commands"
         };
         (0,
         r.useEffect)(( () => {
